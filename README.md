@@ -16,11 +16,11 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application developed fo
 - Deployment-ready configuration (environment variables, build scripts)
 
 ### Technologies
-- **Frontend**: React, React Router, Axios, Tailwind CSS (or you can list the CSS framework you used)  
+- **Frontend**: React, React Router, Axios
 - **Backend**: Node.js, Express.js, Mongoose  
-- **Database**: MongoDB Atlas (or MongoDB local, whichever you used)  
+- **Database**: MongoDB Atlas 
 - **Authentication**: JWT (JSON Web Tokens), bcrypt  
-- **Deployment**: Render (or Heroku/Vercel, based on your choice)
+- **Deployment**: Render
 
 This project is based on a Udemy course: “MERN 2025 Edition - MongoDB, Express, React and NodeJS”
 
